@@ -1,0 +1,5 @@
+langchain-tavily -i https://pypi.tuna.tsinghua.edu.cn/simple
+tavily-python
+httpx
+python-dotenv
+playwright
